@@ -1,0 +1,45 @@
+strong {color:#red;}
+em {color:2f4f4f;}
+body{backgraund:}
+
+#missao{font-size: 40px;}
+#banner{width: 100%;}
+.principal{background:#CCCCCC ;
+padding: 10%}
+
+.titulo-principal{
+padding-left : 20px  
+}
+   
+
+.itens{font-style: italic}
+.beneficios{border: #FFFFFF;
+padding: 20%;}
+.imagembeneficios{width: 50%}
+p {
+	text-align:center;
+}
+
+.titulo-centralizado
+{text-align: center;
+border:  10px  solid;
+}
+
+#missão{
+	   font-size: 30px;}
+	   #banner{
+	   	    width:100%;}
+
+
+ul {display: inline-block;
+ vertical-align: top;
+width: 20%;
+margin-rigth: 15%}
+
+
+
+
+
+
+
+
